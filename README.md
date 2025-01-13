@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 #### he/him | 20 | canadian
 ## yo!
 i'm an intermittent hobbyist who does whatever the hell i decide sounds interesting that week
+
 currently a commission-based Guilty Gear modder working on my own Special Project, as well as decently experienced (and learning more) in Blender
+
 if you wanna get in touch with me, I'm best seen on Discord @muuyo
+
 if you wanna see my other miscellaneous profiles, i'm at https://muuyo.carrd.co/
