@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### he/him | 20 | canadian
+#### he/him | 20 | canadian | adhdbrained
 ## yo!
 i'm an intermittent hobbyist who does whatever the hell i decide sounds interesting that week
 
