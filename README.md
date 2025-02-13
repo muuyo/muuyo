@@ -23,3 +23,5 @@ currently a commission-based Guilty Gear modder working on my own Special Projec
 if you wanna get in touch with me, I'm best seen on Discord @muuyo
 
 if you wanna see my other miscellaneous profiles, i'm at https://muuyo.carrd.co/
+
+// most of my commits are on my asw-modding-bible fork, which i've mostly taken over as the 'main' ver
