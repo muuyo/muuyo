@@ -24,4 +24,6 @@ if you wanna get in touch with me, I'm best seen on Discord @muuyo
 
 if you wanna see my other miscellaneous profiles, i'm at https://muuyo.carrd.co/
 
-// most of my commits are on my asw-modding-bible fork, which i've mostly taken over as the 'main' ver
+if you'd like to toss me money, link on the left side.
+
+## most of my commits are on my asw-modding-bible fork, which i've mostly taken over as the 'main' ver. these are not listed on the graph below.
